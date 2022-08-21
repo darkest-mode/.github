@@ -1,4 +1,4 @@
-<img src="https://github.com/darkest-mode/.github/blob/main/images/darkestmode.gif" width=200px align=right alt="Darkest Mode"/>
+<img src="https://github.com/darkest-mode/.github/blob/main/images/darkestmode.gif" width=100px align=right alt="Darkest Mode"/>
 
 # Darkest Mode
 
