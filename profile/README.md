@@ -14,6 +14,7 @@ Having met on the [Northcoders Coding Boot Camp](https://northcoders.com/our-cou
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&style=social-media)](https://github.com/ojcorrigan)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&style=social-media)](https://www.linkedin.com/in/owen-corrigan-92a753182/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&style=social-media)](https://twitter.com/OwenCorrigan05)
 
 Owen is a former Retail Manager and Broadcast Assistant from the North East of England. He's always been fascinated by tech and problem solving and was finally in a position to pursue this passion when he discovered [Northcoders](https://northcoders.com/). Now looking forward to a long career in a new and exciting industry, he is awaiting the November commencement of a role he's been offered and accepted.
 
