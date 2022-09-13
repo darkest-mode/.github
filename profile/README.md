@@ -28,7 +28,7 @@ Owen is a former Retail Manager and Broadcast Assistant from the North East of E
 
 <img src="https://avatars.githubusercontent.com/u/108344587?v=4" width=200px align=left alt="Zan Clifton"/>
 
-Formerly an adult skills teacher and permaculture designer, Zan is also the National Chair of the Northern Independence Party.
+Formerly an adult skills teacher and permaculture designer, Zan is the National Chair of the Northern Independence Party, and a Software Developer at Jisc.
 
 Her interest in permaculture systems aligns well with good practice and effective design in software development, and this largely influenced her decision to become a developer.
 
