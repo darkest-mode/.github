@@ -28,8 +28,8 @@ Owen is a former Retail Manager and Broadcast Assistant from the North East of E
 
 <img src="https://avatars.githubusercontent.com/u/108344587?v=4" width=200px align=left alt="Zan Clifton"/>
 
-Formerly an adult skills teacher and permaculture designer, Zan is the National Chair of the Northern Independence Party, and a Software Developer at Jisc.
+Formerly an adult skills teacher and permaculture designer, Zan is the National Chair of the Northern Independence Party, and a Software Developer at [Jisc](https://www.jisc.ac.uk/) working as part of the Digital Vision team.
 
-Her interest in permaculture systems aligns well with good practice and effective design in software development, and this largely influenced her decision to become a developer.
+Her interest in permaculture systems aligns well with good practice and effective design in software development, and this largely influenced her decision to become a developer. Enthusiastic about learning and self-improvement, she is constantly on the look out for opportunities to improve her skills, and has been delighted to discover an industry that never rests, where there is always something exciting and new to learn.
 
 As well as politics, permaculture, education and the environment, Zan is passionate about music and plays the trumpet, piano, steel drums, and the ukulele. She loves the Dungeons & Dragons tabletop RPGs, and one day, it is said, the Elder Scrolls series of games will need to be prised from her cold, dead hands.
